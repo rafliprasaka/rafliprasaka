@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafliprasaka
-- 👀 I’m interested in automation and data analyst
+- 👀 I’m interested in automation and software engineering
 - 🌱 I’m currently learning 
 <!---
 rafliprasaka/rafliprasaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
