@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:16161e&height=180&section=header&text=THE%20WORLD%20IS%20YOURS&fontSize=36&fontColor=9ece6a&animation=fadeIn&fontAlignY=38&desc=QA%20%7C%20RPA%20%7C%20Software%20Engineer&descAlignY=58&descSize=16&descColor=c0caf5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:16161e&height=180&section=header&text=MUHAMMAD%20RAFL%20PRASAKA&fontSize=36&fontColor=9ece6a&animation=fadeIn&fontAlignY=38&desc=QA%20%7C%20RPA%20%7C%20Software%20Engineer&descAlignY=58&descSize=16&descColor=c0caf5" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=500&size=24&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=700&lines=Turning+bugs+into+backlog+items...;Automating+the+boring+stuff+with+RPA;Building+%2B+Breaking+Software+Since+2021" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-## 📟 Character Sheet
+##
 
 ```yaml
 Class:   QA Engineer / RPA Developer / Software Engineer
@@ -37,7 +37,7 @@ Quest:   Breaking things on purpose, then building them back better
 
 <br/>
 
-## 📊 Statistics
+##
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Quest:   Breaking things on purpose, then building them back better
 
 <br/>
 
-## 🔗 Connect
+##
 
 <div align="center">
 
