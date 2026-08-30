@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @rafliprasaka
-- 👀 I’m interested in automation and software development
-- 🌱 I’m currently learning 
-<!---
-rafliprasaka/rafliprasaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=RAFLI%20PRASAKA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20%7C%20RPA%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Turning+bugs+into+backlog+items...;Automating+the+boring+stuff+with+RPA;Building+%2B+Breaking+Software+Since+2021" alt="Typing SVG" /> </div> <br/>
+🛠️ Technologies
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,cs,dotnet,nodejs,java,html,css" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div> <br/>
+📊 Statistics
+<div align="center"> <table> <tr> <td width="35%"> <img src="./assets/profile-photo.png" width="100%" style="border-radius:8px;" /> <!-- 👆 Ganti "./assets/profile-photo.png" dengan foto kamu sendiri. Cara pasang foto Vito Corleone / Tony Montana: 1. Buat folder "assets" di repo rafliprasaka/rafliprasaka 2. Upload foto ke situ, misal: assets/profile-photo.png 3. Path di atas otomatis nyambung ke foto itu --> </td> <td width="65%"> <img src="https://github-readme-stats.vercel.app/api?username=rafliprasaka&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" /> </td> </tr> </table> <img src="https://streak-stats.demolab.com?user=rafliprasaka&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliprasaka&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" /> </div> <br/>
+🔗 Connect
+<div align="center"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
