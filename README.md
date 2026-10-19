@@ -43,11 +43,6 @@ Status:   Building the empire, one clean commit at a time
 
 <img src="./assets/profile.gif" width="380" style="border-radius:10px;" />
 
-<!--
-  🎞️ Path ini nunjuk ke assets/profile.gif di repo rafliprasaka/rafliprasaka.
-  Upload GIF kamu ke situ dengan nama file persis: profile.gif
-  (caranya sama kayak upload foto: Add file → Upload files → drag GIF ke assets/)
--->
 
 <br/><br/>
 
